@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://anesternu.github.io/sitemap
+Sitemap: https://anesternu.github.io/app/sitemap
+Sitemap: https://anesternu.github.io/assets/sitemap
+Sitemap: https://anesternu.github.io/css/sitemap
+Sitemap: https://anesternu.github.io/includes/sitemap
+Sitemap: https://anesternu.github.io/item/sitemap
+Sitemap: https://anesternu.github.io/src/sitemap
